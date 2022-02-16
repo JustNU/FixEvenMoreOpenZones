@@ -1,7 +1,7 @@
 {
     "name": "Fix Even More Open Zones",
     "author": "JustNU",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "NCSA",
     "main": "package.js",
 	"akiVersion": "2.2.*"
